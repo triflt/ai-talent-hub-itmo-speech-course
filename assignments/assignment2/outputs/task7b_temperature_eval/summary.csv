@@ -1,0 +1,9 @@
+temperature,method,wer,cer,predictions_csv
+0.5,greedy,54.97,25.58,outputs/task7b_temperature_eval/earnings22_greedy_t_0_5.csv
+0.5,beam_lm,55.18,25.56,outputs/task7b_temperature_eval/earnings22_beam_lm_t_0_5.csv
+1.0,greedy,54.97,25.58,outputs/task7b_temperature_eval/earnings22_greedy_t_1_0.csv
+1.0,beam_lm,55.33,25.42,outputs/task7b_temperature_eval/earnings22_beam_lm_t_1_0.csv
+1.5,greedy,54.97,25.58,outputs/task7b_temperature_eval/earnings22_greedy_t_1_5.csv
+1.5,beam_lm,56.17,25.58,outputs/task7b_temperature_eval/earnings22_beam_lm_t_1_5.csv
+2.0,greedy,54.97,25.58,outputs/task7b_temperature_eval/earnings22_greedy_t_2_0.csv
+2.0,beam_lm,57.77,25.78,outputs/task7b_temperature_eval/earnings22_beam_lm_t_2_0.csv

@@ -1,0 +1,5 @@
+beam_width,wer,cer,predictions_csv
+1,11.24,3.80,outputs/task2_beam_sweep/beam_1.csv
+3,11.15,3.78,outputs/task2_beam_sweep/beam_3.csv
+10,11.07,3.77,outputs/task2_beam_sweep/beam_10.csv
+50,11.10,3.77,outputs/task2_beam_sweep/beam_50.csv

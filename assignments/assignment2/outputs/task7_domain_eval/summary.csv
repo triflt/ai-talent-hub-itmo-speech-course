@@ -1,0 +1,9 @@
+dataset,method,wer,cer,predictions_csv
+librispeech_test_other,greedy,11.22,3.81,outputs/task7_domain_eval/librispeech_test_other_greedy.csv
+librispeech_test_other,beam,11.07,3.77,outputs/task7_domain_eval/librispeech_test_other_beam.csv
+librispeech_test_other,beam_lm,11.00,3.75,outputs/task7_domain_eval/librispeech_test_other_beam_lm.csv
+librispeech_test_other,beam_lm_rescore,11.00,3.75,outputs/task7_domain_eval/librispeech_test_other_beam_lm_rescore.csv
+earnings22_test,greedy,54.97,25.58,outputs/task7_domain_eval/earnings22_test_greedy.csv
+earnings22_test,beam,54.94,25.38,outputs/task7_domain_eval/earnings22_test_beam.csv
+earnings22_test,beam_lm,55.33,25.42,outputs/task7_domain_eval/earnings22_test_beam_lm.csv
+earnings22_test,beam_lm_rescore,55.00,25.41,outputs/task7_domain_eval/earnings22_test_beam_lm_rescore.csv

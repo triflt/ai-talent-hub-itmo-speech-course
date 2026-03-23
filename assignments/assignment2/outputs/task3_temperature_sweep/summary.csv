@@ -1,0 +1,7 @@
+temperature,wer,cer,predictions_csv
+0.5,11.22,3.81,outputs/task3_temperature_sweep/greedy_t_0_5.csv
+0.8,11.22,3.81,outputs/task3_temperature_sweep/greedy_t_0_8.csv
+1.0,11.22,3.81,outputs/task3_temperature_sweep/greedy_t_1_0.csv
+1.2,11.22,3.81,outputs/task3_temperature_sweep/greedy_t_1_2.csv
+1.5,11.22,3.81,outputs/task3_temperature_sweep/greedy_t_1_5.csv
+2.0,11.22,3.81,outputs/task3_temperature_sweep/greedy_t_2_0.csv
